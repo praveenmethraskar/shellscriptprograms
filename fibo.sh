@@ -16,4 +16,3 @@ fn=$((a + b))
 a=$b
 b=$fn
 done
-
